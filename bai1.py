@@ -8,7 +8,7 @@ so_le = int(input("Số lượng số lẻ cần hiển thị: "))
 
 
 dien_tich = dai * rong
-the_tich = dai * rong * cao
+the_tich = dai * rong * cao 
 
 
 print(f"Diện tích đáy hình chữ nhật = {dien_tich:.{so_le}f} cm²")
